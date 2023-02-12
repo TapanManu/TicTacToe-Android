@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="tic_1">tic-1</string>
+    <string name="tic_2">tic-2</string>
+    <string name="tic_3">tic-3</string>
+    <string name="tic_4">tic-4</string>
+    <string name="tic_5">tic-5</string>
+    <string name="tic_6">tic-6</string>
+    <string name="tic_7">tic-7</string>
+    <string name="tic_8">tic-8</string>
+    <string name="tic_9">tic-9</string>
+    <string name="game_reset">GAME RESET</string>
+</resources>
